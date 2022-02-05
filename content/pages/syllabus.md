@@ -43,10 +43,48 @@ If you would like to take this course for a grade, you will also need to submit 
 
 The assignments are graded with the following weights:
 
-| ASSIGNMENTS | PERCENTAGES | GRADES |
-| --- | --- | --- |
-| Eleven, One-Page Reading Responses | 60% | Graded on a scale of 1-20 |
-| Final Paper | 40% | Letter Graded 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+GRADES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eleven, One-Page Reading Responses
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+{{< tdopen >}}
+Graded on a scale of 1-20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+{{< tdopen >}}
+Letter Graded
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 One-Page Reading Responses
 --------------------------
